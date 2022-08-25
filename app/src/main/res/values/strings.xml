@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula01</string>
+    <string name="header">Conversão de Moedas</string>
+    <string name="quantity">Quantidade:</string>
+    <string name="current_coin">De Real, BRL</string>
+    <string name="label_dolar">Para Dólar dos EUA, USD:</string>
+    <string name="label_euro">Para Euro EUR:</string>
+    <string name="calculate">Calcular</string>
+    <string name="inform_value">Calcular</string>
+</resources>
